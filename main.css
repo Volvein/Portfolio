@@ -4,6 +4,9 @@
 .yo{
     font-family: 'Roboto Condensed', sans-serif;
 }
+.new{
+z-index:1;
+}
 .dis{
     font-family: 'Bebas Neue', cursive;
     letter-spacing: 5px;
